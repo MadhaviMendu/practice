@@ -1,0 +1,8 @@
+num= int(input("ente the number:"))
+rev_num=0
+while num!=0:
+    curdigit=num %10
+    rev_num=10*rev_num
+    rev_num=rev_num+curdigit
+    num=num//10
+print("reverse number is: ",rev_num)
