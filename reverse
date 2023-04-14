@@ -1,3 +1,4 @@
+# Write a program to reverse an integer in Python
 num= int(input("ente the number:"))
 rev_num=0
 while num!=0:
