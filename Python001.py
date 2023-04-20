@@ -1,7 +1,6 @@
 
-# Write a program in Python to check whether an integer is Armstrong number or not.
 # Write a program in Python to check given number is prime or not.
-# Write a program in Python to find greatest among three integers.
+
 
 num = int(input("enter the number: "))
 if num>1:

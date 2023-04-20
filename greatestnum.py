@@ -1,3 +1,5 @@
+# Write a program in Python to find greatest among three integers.
+
 num1 = int(input("enter the  first number:"))
 num2= int(input("enter the  secondnumber :"))
 num3= int(input("enter the third number :"))

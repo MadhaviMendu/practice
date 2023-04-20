@@ -7,3 +7,6 @@ while num!=0:
     rev_num=rev_num+curdigit
     num=num//10
 print("reverse number is: ",rev_num)
+print(5%10)
+print(20%10)
+print(5/10)
